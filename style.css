@@ -1,3 +1,8 @@
+body{
+margin: 5%;
+background-color: black;
+}
+
 h1{
     background-color: black;
     color: beige;
@@ -11,4 +16,37 @@ h1{
     border-radius: 30px;
     box-shadow: 0px 0px 30px 0px yellow;
 
+}
+.one{
+    background-color: white;
+    color: orange;
+    border: 5px solid black;
+    text-align: right;
+    margin-left: 85%;
+    padding: 20px;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    border-radius: 50px;
+    box-shadow: 0px 0px 30px 0px yellow;
+}
+
+.two{
+        background-color: white;
+    color: orange;
+    border: 5px solid black;
+    text-align: left;
+    margin-right: 85%;
+    padding: 20px;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    border-radius: 50px;
+    box-shadow: 0px 0px 30px 0px yellow;
+}
+
+.class1{
+    background-color: whitesmoke;
+    padding: 20px;
+    text-align: justify;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 20px;  
 }
